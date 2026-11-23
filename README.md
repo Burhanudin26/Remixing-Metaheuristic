@@ -1,2 +1,2 @@
 # Remixing-Metaheuristic
-Codebase Tugas KK A
+Codebase Tugas untuk kelas Kecerdasan Komputasional A.

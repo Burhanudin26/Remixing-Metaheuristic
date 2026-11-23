@@ -1,0 +1,17 @@
+dataset,instance,feature,weight
+framingham,TP,age > 0.66,0.1339915373116292
+framingham,TP,diabetes <= 0.00,-0.07075186307941023
+framingham,TP,0.00 < prevalentHyp <= 1.00,0.06651165959919639
+framingham,TP,0.00 < male <= 1.00,0.047767054514168884
+framingham,TP,sysBP > 0.60,0.04597193261790786
+framingham,TP,prevalentStroke <= 0.00,-0.015586682706537444
+framingham,TP,0.00 < cigsPerDay <= 0.40,0.010883049371912699
+framingham,TP,0.50 < totChol <= 0.62,0.0047824646897604885
+framingham,FN,0.00 < prevalentHyp <= 1.00,0.06663106367797758
+framingham,FN,diabetes <= 0.00,-0.06376893071946116
+framingham,FN,0.00 < male <= 1.00,0.046085619216495746
+framingham,FN,0.26 < age <= 0.45,-0.04579778383496566
+framingham,FN,sysBP > 0.60,0.04495947016941839
+framingham,FN,prevalentStroke <= 0.00,-0.025283654926457382
+framingham,FN,totChol > 0.62,0.017085531238884857
+framingham,FN,0.00 < cigsPerDay <= 0.40,0.011140704145530575
